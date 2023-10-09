@@ -7,4 +7,4 @@ Hello, em.. its a little bit awkward he.he.he
 <br> Maybe, because i dont code anymore [somehow im glad and sad at the same time]
 <br>
 <br>
-I dont upload my design here. I just make it to declare and as a reminder that Ive ever switched to UIUX when my future self see this readme. you can access my UIU design in here www.figma/@ufairahbashir I dont upload much [cause some projects are private] I upload it in my spare time.
+I dont upload my design here. I just make it to declare and as a reminder that Ive ever switched to UIUX when my future self see this readme. you can access my UIUX design in here www.figma/@ufairahbashir I dont upload much [cause some projects are private] I upload it in my spare time.
